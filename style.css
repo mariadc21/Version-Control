@@ -20,9 +20,10 @@
     padding-top: 100px;
  
 }
-.content-section{
+.content-section {
     float: left;
     width: 55%;
+}
 
 .content-section .title{
     text-transform: uppercase;
